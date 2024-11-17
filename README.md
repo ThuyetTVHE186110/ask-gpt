@@ -13,7 +13,7 @@ A modern real-time chat application built with Next.js, Firebase, and TypeScript
 
 ## Tech Stack
 
--   [Next.js 14](https://nextjs.org/) - React framework
+-   [Next.js 15](https://nextjs.org/) - React framework
 -   [Firebase](https://firebase.google.com/) - Backend and authentication
 -   [TypeScript](https://www.typescriptlang.org/) - Type safety
 -   [Tailwind CSS](https://tailwindcss.com/) - Styling
@@ -54,6 +54,8 @@ cd <project-directory>
 npm install
 # or
 yarn install
+# or
+bun install
 ```
 
 3. Run the development server:
@@ -62,6 +64,8 @@ yarn install
 npm run dev
 # or
 yarn dev
+# or
+bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -107,4 +111,4 @@ For other deployment options, check out the [Next.js deployment documentation](h
 
 ## Support
 
-For support, email your-email@example.com or open an issue in the repository.
+For support, email thuyettvhe186110@fpt.edu.vn or open an issue in the repository.
